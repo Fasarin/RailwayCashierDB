@@ -1,0 +1,39 @@
+﻿<Window x:Class="LoginTrailTest.AdminRoute.EditRoute"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginTrailTest.AdminRoute"
+        mc:Ignorable="d"
+        Title="EditRoute" Height="450" Width="350" >
+    <Grid Margin="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Border Grid.Row="0" Background="#FACA87" Padding="10">
+            <TextBlock Text="Editing the path" Foreground="White" FontSize="20" HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Content -->
+        <Grid Grid.Row="1" Margin="20">
+            <!-- Add your editing controls here -->
+            <StackPanel>
+                <TextBox x:Name="TrainIDTextBox" Margin="5" Width="200" VerticalAlignment="Center" Text="Train ID"/>
+                <TextBox x:Name="StationNameTextBox" Margin="5" Width="200" VerticalAlignment="Center" Text="Station name"/>
+                <TextBox x:Name="RouteLengthTextBox" Margin="5" Width="200" VerticalAlignment="Center" Text="Route length"/>
+                <TextBox x:Name="PriceCoupeTextBox" Margin="5" Width="200" VerticalAlignment="Center" Text="Price per compartment"/>
+                <TextBox x:Name="PricePlacTextBox" Margin="5" Width="200" VerticalAlignment="Center" Text="Price for a reserved seat"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="Save" Width="100" Margin="5" Click="SaveButton"/>
+            <Button Content="Cancel" Width="100" Margin="5" Click="CancelButton"/>
+        </StackPanel>
+    </Grid>
+</Window>

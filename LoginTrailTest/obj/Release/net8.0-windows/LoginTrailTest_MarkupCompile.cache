@@ -1,0 +1,20 @@
+﻿LoginTrailTest
+
+
+winexe
+C#
+.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Release\net8.0-windows\
+LoginTrailTest
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\App.xaml
+23-1398831730
+
+35-1624559561
+255-601522060
+AdminPanel\CreateTrainWindow.xaml;AdminPanel\EditTrainWindow.xaml;AdminPanel\SearchTrainWindow.xaml;AdminRoute\CreateRoute.xaml;AdminRoute\EditRoute.xaml;AdminRoute\SearchRoute.xaml;AdminSchedule\CreateSchedule.xaml;AdminSchedule\EditSchedule.xaml;AdminSchedule\SearchSchedule.xaml;AdminStation\CreateStation.xaml;AdminStation\EditStation.xaml;AdminStation\SearchStation.xaml;CashierPanel\CreateTicketWindow.xaml;CashierWindow.xaml;MainWindow.xaml;RouteWindow.xaml;ScheduleWindow.xaml;SeatsPanel\CreateSeatWindow.xaml;SeatsPanel\EditSeatWindow.xaml;SeatsWindow.xaml;StationWindow.xaml;TicketWindow.xaml;TrainWindow.xaml;
+
+True
+

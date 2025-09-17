@@ -1,0 +1,41 @@
+﻿<Window x:Class="LoginTrailTest.AdminPanel.CreateTrainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginTrailTest.AdminPanel"
+        mc:Ignorable="d"
+        Title="CreateTrainWindow" Height="500" Width="350" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Border Grid.Row="0" Background="#FACA87" Padding="10">
+            <TextBlock Text="Creating a train" Foreground="White" FontSize="20" HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Content -->
+        <Grid Grid.Row="1" Margin="20">
+            <!-- Add your input controls here -->
+            <StackPanel>
+                <TextBox x:Name="TrainNumberTextBox" Margin="5" Width="200" Text="Train number" VerticalAlignment="Center"/>
+                <TextBox x:Name="DepartureStationTextBox" Margin="5" Width="200" Text="Departure station" VerticalAlignment="Center" PreviewTextInput="LettersOnly_PreviewTextInput" IsEnabled="False"/>
+                <TextBox x:Name="DestinationStationTextBox" Margin="5" Width="200" Text="Destination station" VerticalAlignment="Center" PreviewTextInput="LettersOnly_PreviewTextInput"/>
+                <TextBox x:Name="NumberOfCarsTextBox" Margin="5" Width="200" Text="Number of cars" VerticalAlignment="Center" PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+                <TextBox x:Name="CarTypesTextBox" Margin="5" Width="200" Text="Types of railcars" VerticalAlignment="Center"/>
+                <TextBox x:Name="NumberOfCoupeTextBox" Margin="5" Width="200" Text="Quantity Coupe" VerticalAlignment="Center" PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+                <TextBox x:Name="NumberOfPlacTextBox" Margin="5" Width="200" Text="Number of reserved seats" VerticalAlignment="Center" PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="Create" Width="100" Margin="5" Click="SaveButton_Click"/>
+            <Button Content="Cancel" Width="100" Margin="5" Click="CancelButton"/>
+        </StackPanel>
+    </Grid>
+</Window>

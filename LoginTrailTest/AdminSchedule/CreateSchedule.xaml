@@ -1,0 +1,43 @@
+﻿<Window x:Class="LoginTrailTest.AdminSchedule.CreateSchedule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:LoginTrailTest.AdminSchedule"
+        mc:Ignorable="d"
+        Title="CreateSchedule" Height="370" Width="300" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Border Grid.Row="0" Background="#FACA87" Padding="10">
+            <TextBlock Text="Creating a schedule" Foreground="White" FontSize="20" HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Content -->
+        <Grid Grid.Row="1" Margin="20">
+            <!-- Add your input controls here -->
+            <StackPanel>
+                <TextBox x:Name="TrainNumberTextBox" Margin="5" Width="200" VerticalAlignment="Center"/>
+                <TextBox x:Name="PlatformTextBox" Margin="5" Width="200" VerticalAlignment="Center"/>
+                <DatePicker x:Name="DepartureDatePicker" Margin="5" Width="200" VerticalAlignment="Center" SelectedDate="{Binding Departure_Date}" DisplayDateStart="{x:Static sys:DateTime.Now}" />
+                <StackPanel Margin="5" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <TextBox x:Name="HourTextBox" Margin="5" Width="70" VerticalAlignment="Center" Text="{Binding Departure_Time.Hours, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Margin="5" VerticalAlignment="Center">:</TextBlock>
+                    <TextBox x:Name="MinuteTextBox" Margin="5" Width="70" VerticalAlignment="Center" Text="{Binding Departure_Time.Minutes, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="Create" Width="100" Margin="10" Click="CreateButtonSchedule"/>
+            <Button Content="Cancel" Width="100" Margin="10" Click="CancelButtonSchedule"/>
+        </StackPanel>
+    </Grid>
+</Window>

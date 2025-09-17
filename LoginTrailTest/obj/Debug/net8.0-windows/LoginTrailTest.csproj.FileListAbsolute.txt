@@ -1,0 +1,264 @@
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.exe
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.deps.json
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.runtimeconfig.json
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.pdb
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.csproj.AssemblyReference.cache
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.csproj.ResolveComReference.cache
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\EditSeatWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\App.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\CreateTrainWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\EditTrainWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\SearchTrainWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\CreateRoute.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\EditRoute.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\SearchRoute.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\CreateSchedule.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\EditSchedule.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\SearchSchedule.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\CreateStation.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\EditStation.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\SearchStation.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierPanel\CreateTicketWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\RouteWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\ScheduleWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\CreateSeatWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\EditSeatWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\StationWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TicketWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TrainWindow.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\App.g.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest_MarkupCompile.cache
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest_MarkupCompile.lref
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\CreateTrainWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\EditTrainWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\SearchTrainWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\CreateRoute.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\EditRoute.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\SearchRoute.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\CreateSchedule.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\EditSchedule.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\SearchSchedule.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\CreateStation.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\EditStation.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\SearchStation.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierPanel\CreateTicketWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\RouteWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\ScheduleWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\CreateSeatWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\StationWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TicketWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TrainWindow.baml
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.g.resources
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.AssemblyInfoInputs.cache
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.AssemblyInfo.cs
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.csproj.CoreCompileInputs.cache
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTra.07DBC985.Up2Date
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\refint\LoginTrailTest.dll
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.pdb
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.genruntimeconfig.cache
+C:\Other\Railway\Program Raliway\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\ref\LoginTrailTest.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.exe
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.deps.json
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.runtimeconfig.json
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\LoginTrailTest.pdb
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\itextsharp.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\MySqlConnector.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.System.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\PdfSharp.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.csproj.AssemblyReference.cache
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.csproj.ResolveComReference.cache
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\MainWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\EditSeatWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\App.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\CreateTrainWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\EditTrainWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\SearchTrainWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\CreateRoute.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\EditRoute.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\SearchRoute.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\CreateSchedule.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\EditSchedule.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\SearchSchedule.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\CreateStation.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\EditStation.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\SearchStation.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierPanel\CreateTicketWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\RouteWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\ScheduleWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\CreateSeatWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\EditSeatWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\StationWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TicketWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TrainWindow.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\App.g.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest_MarkupCompile.cache
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest_MarkupCompile.lref
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\CreateTrainWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\EditTrainWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminPanel\SearchTrainWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\CreateRoute.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\EditRoute.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminRoute\SearchRoute.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\CreateSchedule.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\EditSchedule.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminSchedule\SearchSchedule.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\CreateStation.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\EditStation.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\AdminStation\SearchStation.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierPanel\CreateTicketWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\CashierWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\RouteWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\ScheduleWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsPanel\CreateSeatWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\SeatsWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\StationWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TicketWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\TrainWindow.baml
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.g.resources
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.AssemblyInfoInputs.cache
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.AssemblyInfo.cs
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.csproj.CoreCompileInputs.cache
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTra.07DBC985.Up2Date
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\refint\LoginTrailTest.dll
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.pdb
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\LoginTrailTest.genruntimeconfig.cache
+E:\PC\Program Raliway\Безхутрий Кирило ПІ331 Залізничний Вокзал\LoginTrailTest\LoginTrailTest\obj\Debug\net8.0-windows\ref\LoginTrailTest.dll

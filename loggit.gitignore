@@ -1,0 +1,9 @@
+# Visual Studio
+bin/
+obj/
+*.suo
+*.user
+.vs/
+*.cache
+*.pdb
+*.csproj.user

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdminPanel\CreateTrainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminPanel\EditTrainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminPanel\SearchTrainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminRoute\CreateRoute.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminRoute\EditRoute.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminRoute\SearchRoute.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminSchedule\CreateSchedule.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminSchedule\EditSchedule.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminSchedule\SearchSchedule.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminStation\CreateStation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminStation\EditStation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminStation\SearchStation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CashierPanel\CreateTicketWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CashierWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RouteWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ScheduleWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SeatsPanel\CreateSeatWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SeatsPanel\EditSeatWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SeatsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StationWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TicketWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TrainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AdminPanel\CreateTrainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminPanel\EditTrainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminPanel\SearchTrainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminRoute\CreateRoute.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminRoute\EditRoute.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminRoute\SearchRoute.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminSchedule\CreateSchedule.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminSchedule\EditSchedule.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminSchedule\SearchSchedule.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminStation\CreateStation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminStation\EditStation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminStation\SearchStation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CashierPanel\CreateTicketWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CashierWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RouteWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ScheduleWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SeatsPanel\CreateSeatWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SeatsPanel\EditSeatWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SeatsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StationWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TicketWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TrainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
